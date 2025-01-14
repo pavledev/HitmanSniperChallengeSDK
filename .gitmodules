@@ -7,3 +7,6 @@
 [submodule "External/mINI"]
 	path = External/mINI
 	url = https://github.com/metayeti/mINI.git
+[submodule "External/imgui"]
+	path = External/imgui
+	url = https://github.com/ocornut/imgui.git
