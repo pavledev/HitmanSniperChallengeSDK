@@ -1,0 +1,15 @@
+{
+    "version": "0.2.1",
+    "defaults": {},
+    "configurations": [
+        {
+            "type": "dll",
+            "exe": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Hitman Sniper Challenge\\HMSC.exe",
+            "cwd": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Hitman Sniper Challenge",
+            "currentDir": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Hitman Sniper Challenge",
+            "project": "CMakeLists.txt",
+            "projectTarget": "HitmanSniperChallengeSDK.dll (Install)",
+            "name": "Hitman Sniper Challange"
+        }
+    ]
+}

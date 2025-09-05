@@ -1,0 +1,10 @@
+{
+    "name": "hitmansniperchallengesdk",
+    "version": "1.0.0",
+    "dependencies": [
+        "directxtk",
+        "minhook",
+        "rapidjson",
+        "stb"
+    ]
+}
